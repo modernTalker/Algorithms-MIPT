@@ -1,4 +1,3 @@
-
 #ifndef BOUND
 #define BOUND
 template <class T>
