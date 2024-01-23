@@ -17,4 +17,4 @@ The code presents an algorithm to find the minimum number of bridges required to
 * #### Main Function
   The main function acts as the entry point, receiving input for the number of islands and connections, constructing the graph, and outputting the minimum number of bridges required.
 
-The code effectively utilizes the Disjoint Set Union algorithm to determine the minimum number of bridges needed to connect the islands, providing an efficient solution for this connectivity problem.
+The code utilizes the Disjoint Set Union algorithm to determine the minimum number of bridges needed to connect the islands, providing an efficient solution for this connectivity problem.
