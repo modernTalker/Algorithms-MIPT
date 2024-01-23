@@ -15,4 +15,4 @@ The code demonstrates bridge detection in a graph using depth-first search (DFS)
 * #### Main Function
   The main function acts as a user interface, receiving input for the number of vertices and edges in the graph and specifying the edges. It then computes and displays the number of bridge edges and their respective indices within the graph.
 
-This program provides an effective solution for identifying bridge edges in a graph, offering valuable insights into the connectivity and critical edges within the graph structure.
+This program provides a solution for identifying bridge edges in a graph, offering valuable insights into the connectivity and critical edges within the graph structure.
