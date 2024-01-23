@@ -1,6 +1,6 @@
 ## Edmonds-Karp Algorithm
 
-The provided code implements the Edmonds-Karp algorithm to compute the maximum flow within a flow network. Similar to the Dinic algorithm, this algorithm efficiently finds the maximum flow from a source to a sink within a flow network, making it crucial in solving diverse network flow optimization problems.
+The code implements the Edmonds-Karp algorithm to compute the maximum flow within a flow network. Similar to the Dinic algorithm, this algorithm efficiently finds the maximum flow from a source to a sink within a flow network, making it crucial in solving diverse network flow optimization problems.
 
 * #### Edge Struct
   The Edge structure characterizes an edge, encapsulating attributes such as source, destination, capacity, and current flow through the edge.
@@ -20,4 +20,4 @@ The provided code implements the Edmonds-Karp algorithm to compute the maximum f
 * #### Main Function
   The main function serves as the entry point, receiving input for the size of the graph and the capacities of its edges, constructing the graph, computing the maximum flow using the Edmunds-Karp algorithm, and displaying the resulting maximum flow value.
 
-The code efficiently applies the Edmonds-Karp algorithm to compute the maximum flow within a flow network, offering a valuable tool for resolving network flow optimization problems.
+The code applies the Edmonds-Karp algorithm to compute the maximum flow within a flow network, offering a valuable tool for resolving network flow optimization problems.
