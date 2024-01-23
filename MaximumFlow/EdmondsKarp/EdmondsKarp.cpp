@@ -60,7 +60,7 @@ class Graph {
     }
   }
 
-  size_t EdmundsKarp(int start, int t) {
+  size_t EdmondsKarp(int start, int t) {
     auto n = vertices_.size();
     size_t max = 0;
     while (true) {
@@ -103,6 +103,6 @@ int main() {
     std::cin >> u >> v >> capacity;
     graph.SpecialAdd(u, v, capacity);
   }
-  std::cout << graph.EdmundsKarp(1, n) << '\n';
+  std::cout << graph.EdmondsKarp(1, n) << '\n';
   return 0;
 }
