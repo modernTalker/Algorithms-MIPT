@@ -1,4 +1,5 @@
-# Kruskal's Algorithm for Minimum Spanning Tree
+# Kruskal's Algorithm
+The code implements Boruvka's algorithm to find the Minimum Spanning Tree (MST) in a graph. A Minimum Spanning Tree spans all the vertices of the graph with the minimum total edge weight.
 
 * #### DSU Class
 The DSU (Disjoint Set Union) class serves for managing disjoint sets, allowing for union and find operations to merge sets and locate the representative element of the set to which an element belongs.
