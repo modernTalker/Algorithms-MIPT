@@ -1,6 +1,6 @@
 # Find Cycle
 
-The provided code is designed to determine whether a graph contains a cycle. It employs a Depth-First Search (DFS) algorithm to traverse the graph and identify cycles within it.
+The provided code determines whether a graph contains a cycle. It employs a Depth-First Search (DFS) algorithm to traverse the graph and identify cycles within it.
 
 * #### Graph Class
   The Graph class allows for the creation and manipulation of a graph. It includes methods to add edges and determine the presence of a cycle within the graph.
@@ -17,4 +17,4 @@ The provided code is designed to determine whether a graph contains a cycle. It 
 * #### Main Function
   The main function acts as the entry point, receiving input for the graph's size and connections, constructing the graph, and outputting the presence of a cycle along with its constituent vertices if one exists.
 
-The code effectively applies a DFS-based traversal technique to detect cycles within a graph, providing a valuable tool for analyzing and understanding graph structures in various applications.
+The code applies a DFS-based traversal technique to detect cycles within a graph, providing a valuable tool for analyzing and understanding graph structures in various applications.
