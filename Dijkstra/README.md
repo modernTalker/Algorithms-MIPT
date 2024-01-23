@@ -17,4 +17,4 @@ The following implementation features Dijkstra's algorithm for finding the short
 * #### Main Function
   The main function acts as the user interface, receiving input for the graph's size, start and end vertices, and building the graph accordingly. It calculates and outputs the length of the shortest path between the specified vertices.
 
-The code effectively applies Dijkstra's algorithm to determine the shortest path in a weighted graph, providing a practical solution for pathfinding in graph structures.
+The code applies Dijkstra's algorithm to determine the shortest path in a weighted graph, providing a practical solution for pathfinding in graph structures.
