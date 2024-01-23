@@ -20,4 +20,4 @@ The Boruvka function applies Boruvka's algorithm to find the Minimum Spanning Tr
 * #### Main Function
 The main function serves as the entry point, receiving input for the graph's size and the edges' weights, constructing the graph, executing Boruvka's algorithm to compute the Minimum Spanning Tree weight, and displaying the resulting weight.
 
-The code efficiently applies Boruvka's algorithm to compute the Minimum Spanning Tree weight, providing an essential tool for analyzing graph structures and identifying the minimum total weight to connect all vertices.
+The efficiently applies Boruvka's algorithm to compute the Minimum Spanning Tree weight, providing an essential tool for analyzing graph structures and identifying the minimum total weight to connect all vertices.
