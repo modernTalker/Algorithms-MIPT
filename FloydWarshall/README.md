@@ -1,6 +1,6 @@
 # Floyd-Warshall Algorithm
 
-The provided code is centered around finding all-pairs shortest paths in a weighted graph using the Floyd-Warshall algorithm. This algorithm efficiently calculates the shortest paths between all pairs of vertices in a graph, even when the graph contains negative edge weights.
+The code is centered around finding all-pairs shortest paths in a weighted graph using the Floyd-Warshall algorithm. This algorithm efficiently calculates the shortest paths between all pairs of vertices in a graph, even when the graph contains negative edge weights.
 
 * #### Graph Class
   The Graph class facilitates the handling and manipulation of a weighted graph. It includes methods for resizing the graph, adding weighted edges, and executing the Floyd-Warshall algorithm to determine all-pairs shortest paths.
@@ -17,4 +17,4 @@ The provided code is centered around finding all-pairs shortest paths in a weigh
 * #### Main Function
   The main function serves as the entry point, receiving input for the size of the graph and its weighted edges, constructing the graph, executing the Floyd-Warshall algorithm, and displaying the resulting shortest path matrix.
 
-The code effectively applies the Floyd-Warshall algorithm to determine all-pairs shortest paths in the weighted graph, providing a valuable tool for analyzing and understanding distance metrics between vertices in various graph structures.
+The code applies the Floyd-Warshall algorithm to determine all-pairs shortest paths in the weighted graph, providing a valuable tool for analyzing and understanding distance metrics between vertices in various graph structures.
