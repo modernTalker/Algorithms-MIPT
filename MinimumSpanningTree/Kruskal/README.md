@@ -19,4 +19,4 @@ The Kruskal function applies Kruskal's algorithm to find the Minimum Spanning Tr
 * #### Main Function
 The main function serves as the entry point, receiving input for the graph's size and the weights of its edges, constructing the graph, executing Kruskal's algorithm to compute the Minimum Spanning Tree weight, and displaying the resulting weight.
 
-The code efficiently utilizes Kruskal's algorithm to compute the Minimum Spanning Tree weight, offering an essential tool for analyzing graph structures and identifying the minimum total weight to connect all vertices.
+The code utilizes Kruskal's algorithm to compute the Minimum Spanning Tree weight, offering an essential tool for analyzing graph structures and identifying the minimum total weight to connect all vertices.
