@@ -1,6 +1,6 @@
 # Strongly Connected Components
 
-The provided code includes functionalities for finding the Strongly Connected Components (SCC) in a directed graph using Topological Sort and Depth-First Search (DFS).
+The code includes functionalities for finding the Strongly Connected Components (SCC) in a directed graph using Topological Sort and Depth-First Search (DFS).
 
 * #### Contain Function
 The Contain function checks the existence of a specific character within a given string.
@@ -35,4 +35,4 @@ The TransposedDFS and TransposedDFSvisit functions conduct Depth-First Search on
 * #### Main Function
 The main function serves as the entry point, processing input for the graph's size and edges, constructing the graph, calculating the Strongly Connected Components using Depth-First Search and Topological Sorting, and displaying the resulting components alongside distribution information.
 
-The code efficiently leverages Topological Sort and Depth-First Search to compute the Strongly Connected Components within a directed graph, providing crucial insights into the relational structures within the graph.
+The code leverages Topological Sort and Depth-First Search to compute the Strongly Connected Components within a directed graph, providing insights into the relational structures within the graph.
