@@ -23,4 +23,4 @@ The code illustrates the implementation of the Ford-Fulkerson algorithm to calcu
 * #### Main Function
   The main function serves as the entry point, receiving input for the graph's size and the capacities of its edges, constructing the graph, computing the maximum flow using the Ford-Fulkerson algorithm, and displaying the resulting maximum flow value.
 
-The code effectively applies the Ford-Fulkerson algorithm to compute the maximum flow within a flow network, presenting a fundamental tool for addressing network flow optimization problems.
+The code applies the Ford-Fulkerson algorithm to compute the maximum flow within a flow network, presenting a fundamental tool for addressing network flow optimization problems.
