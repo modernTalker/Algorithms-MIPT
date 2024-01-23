@@ -15,4 +15,4 @@ The Prim function applies Prim's algorithm to compute the Minimum Spanning Tree 
 * #### Main Function
 The main function serves as the entry point, taking input for the graph's size and the weights of its edges, constructing the graph, executing Prim's algorithm to compute the Minimum Spanning Tree weight, and displaying the resulting weight.
 
-The code efficiently utilizes Prim's algorithm to compute the Minimum Spanning Tree weight, providing a fundamental tool for analyzing graph structures and finding the minimum total weight to connect all vertices.
+The code utilizes Prim's algorithm to compute the Minimum Spanning Tree weight, providing a fundamental tool for analyzing graph structures and finding the minimum total weight to connect all vertices.
