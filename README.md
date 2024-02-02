@@ -5,4 +5,5 @@ In this repository there are basic-version implementations of some of the most i
 * Graphs (important graph algorithms from finding shortest paths to maximum flow solutions)
 * RMQ-RSQ (this part dives into ways of different RMQ-RSQ tasks solving)
 * String Algorithms (the most common formulations of the texts' and strings' problems and their solutions)
-So there are five different branches in this repository relevant to each theme
+
+So there are five different branches in this repository relevant to each theme, where all main algorithms are implemented
